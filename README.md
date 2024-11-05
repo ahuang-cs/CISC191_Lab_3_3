@@ -3,4 +3,4 @@ JavaFX lab for CISC191
 # Requirements
 JDK 21
 JUnit 3
-OpenJDK 21
+OpenJDK 22
